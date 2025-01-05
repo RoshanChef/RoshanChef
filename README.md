@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roshan Kalmathe</h1>
+<h1 align="center">Hi, I'm Roshan Kalmathe</h1>
 <h3 align="center">I am passionate to build website and frontend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanchef&label=Profile%20views&color=0e75b6&style=flat" alt="roshanchef" /> </p>
