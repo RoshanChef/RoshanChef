@@ -1,13 +1,4 @@
-<h1 align="center">Hi, I'm Roshan Kalmathe</h1>
-<h3 align="center">I am passionate to build website and frontend development</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanchef&label=Profile%20views&color=0e75b6&style=flat" alt="roshanchef" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **kalmatheroshan@gmail.com**
-
-- 📄 Know about my experiences [Fresher](Fresher)
+RoshanChef
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
