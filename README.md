@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I'm Roshan Kalmathe</h1>
 <h3 align="center">🚀 A Passionate Full-Stack Developer</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500px">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Full+Stack+Developer;Passionate+Problem+Solver;Lifelong+Learner" alt="Typing Animation"/>
