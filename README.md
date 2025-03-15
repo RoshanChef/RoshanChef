@@ -36,7 +36,7 @@
   </a>
 </p>
 
-### ⚡ JavaScript Libraries & Frameworks:
+#### ⚡ JavaScript Libraries & Frameworks:
 #### 📚 **Libraries**:
 <p align="center">
   <a href="https://react.dev/" target="_blank">
