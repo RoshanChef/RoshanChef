@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Roshan Kalmathe</h1>
-<h3 align="center">🚀 A Passionate Full-Stack Developer</h3>
+<h3 align="center">🚀 A Passionate Web Developer</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500px">
 </p>
